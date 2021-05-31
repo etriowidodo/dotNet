@@ -2,6 +2,8 @@ Requirements
 ============
 DotNet 4.0
 
+sdasafa
+
 Installation
 ============
 Copy RichesDotnet to c:\inetpub\wwwroot\
